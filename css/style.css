@@ -1,9 +1,34 @@
 *{
   padding:0px;
   margin:0px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .banner{
   background-color: #2d2727;
   height: 400px;
+}
+
+.responsive{
+  height:auto;
+  width:100%;
+}
+
+.caption h1{
+  color:white;
+  text-align: center;
+}
+
+.caption p{
+  color:white;
+}
+
+#wel{
+  text-align: center;
+  color:white;
+}
+
+.captionn img{
+  height: 70px;
+  margin: 25px;
 }
