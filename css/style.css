@@ -2,6 +2,7 @@
   padding:0px;
   margin:0px;
   font-family: 'Raleway', sans-serif;
+  overflow-x: hidden;
 }
 
 .banner{
@@ -120,4 +121,17 @@ color: white;
 
 .sim img{
   margin-left: 10px;
+}
+
+.port h1{
+  padding: 4% 0% 1% 0%;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size:28px;
+  color:black;
+}
+
+.spacepo{
+  padding:2%;
 }
