@@ -61,6 +61,11 @@
   margin-bottom:5%;
 }
 
+.spacefooter{
+  margin-top: 2%;
+  margin-bottom:2%;
+}
+
 
 .about h1{
   padding: 4% 0% 1% 0%;
@@ -167,3 +172,10 @@ color: white;
 #icons > li >a{
   padding:7px;
 }
+
+.futa p{
+  text-align: center;
+  font-weight: 400;
+  font-size: 16px;
+  color:black;
+  }
