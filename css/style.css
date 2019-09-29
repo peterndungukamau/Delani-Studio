@@ -163,3 +163,7 @@ color: white;
 #icons{
   display: inline-flex;
 }
+
+#icons > li >a{
+  padding:7px;
+}
