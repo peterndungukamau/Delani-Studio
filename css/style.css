@@ -140,3 +140,30 @@ color: white;
   background-color: transparent;
   height: 200px;
 }
+
+#name{
+background-color: transparent;
+}
+
+#email{
+background-color: transparent;
+  }
+
+.Contact{
+    background-image: url(../img/c_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+.Contact h1{
+padding: 4% 0% 1% 0%;
+text-align: center;
+text-transform: uppercase;
+font-weight: 600;
+font-size:28px;
+color: white;
+  }
+
+#icons{
+  display: inline-flex;
+}
