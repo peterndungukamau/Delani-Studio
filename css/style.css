@@ -135,3 +135,8 @@ color: white;
 .spacepo{
   padding:2%;
 }
+
+#comment{
+  background-color: transparent;
+  height: 200px;
+}
