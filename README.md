@@ -5,7 +5,7 @@ This is a website that showcases my skills in coming up with a website.It's a we
 ## Setup/Installation Requirements
 * Open your terminal (ctrl+alt+T)
 * Initialize git on your terminal
-* git clone 
+* git clone https://github.com/peterndungukamau/Delani-Studio.git
 * open the landing-page folder
 * Open the file named index.html on your preferred internet browser.
 ## Technologies Used
@@ -14,6 +14,6 @@ CSS 3
 Javascript
 jQuery
 ## Here is the link to the site
-
+https://peterndungukamau.github.io/Delani-Studio/
 ### License
 Copyright (c) 2019 **Peter-Kamau**
