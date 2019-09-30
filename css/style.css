@@ -202,3 +202,23 @@ color: white;
   #repos3{
     display: none;
   }
+
+  .hovertext{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 90%;
+  font-weight: 600;
+  font-size:28px;
+  color: white;
+  text-align: center;
+  HEIGHT: auto;
+  opacity: 0.55%;
+  background: #00000066;
+  transform: translate(-50%,-50%);
+  }
+
+  .imgg:hover{
+    opacity: 0.5;
+
+  }

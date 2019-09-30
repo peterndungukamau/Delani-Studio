@@ -2,36 +2,39 @@ $(document).ready(function(){
     $("h1#wel").click(function(){
         $("h1").addClass("wel")
     });
-});
 
-$(document).ready(function(){
+
     $("h5#well").click(function(){
         $("h5").addClass("well")
     });
-});
 
-$(document).ready(function(){
-    $("img#repo1").click(function(){
-        $("img#repo1").toggle();
-        $("p#repos1").toggle();
+
+    $(".click1").click(function(){
+        $("#repos1").toggle();
+        $("#repo1").toggle();
     });
-});
 
-$(document).ready(function(){
-    $("img#repo2").click(function(){
-        $("img#repo2").toggle();
-        $("p#repos2").toggle();
+
+
+    $(".click2").click(function(){
+        $("#repo2").toggle();
+        $("#repos2").toggle();
     });
-});
 
-$(document).ready(function(){
-    $("img#repo3").click(function(){
-        $("img#repo3").toggle();
-        $("p#repos3").toggle();
+
+
+    $(".click3").click(function(){
+        $("#repo3").toggle();
+        $("#repos3").toggle();
     });
-});
+    $(".namee").hide()
+        $(".hover1").hover(function(){
+        $(this).find(".namee").toggle();
+        });
+        
 
-$(document).ready(function(){
+
+
 $("form").submit(function(event) {
     var name = $("#name").val();
     var email = $("#email").val();
