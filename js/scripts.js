@@ -31,3 +31,13 @@ $(document).ready(function(){
     });
 });
 
+$(document).ready(function(){
+$("form").submit(function(event) {
+    var name = $("#name").val();
+    var email = $("#email").val();
+    var message =$("#message").val();
+    event.preventDefault();
+    alert(name + " we have received your message . Thank you for reaching out to us.");
+  });
+
+});
